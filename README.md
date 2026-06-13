@@ -1,5 +1,5 @@
 <p aling="center">
-  <img src="assets/banners/BANNER-WORDPRESS-LINUX-1.png" width=100%">
+  <img src="assets/banners/lpi-logo-colour-reverse.svg" width=100%">
 </p>
 
 # Linux Professional Institute Certification (LPIC)
