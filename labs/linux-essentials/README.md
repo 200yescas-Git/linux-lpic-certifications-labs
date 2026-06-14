@@ -32,3 +32,13 @@ Todos los laboratorios se realizan en un entorno controlado para asegurar consis
 
 ---
 
+## Estructura
+
+Cada laboratorio incluirá:
+
+- Objetivo
+- Procedimiento
+- Comandos utilizados
+- Resultados obtenidos
+- Evidencia cuando sea requerida
+- Conclusiones
