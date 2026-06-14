@@ -1,6 +1,6 @@
 # Comunidad Linux y Código Abierto
 
-## 📌 Overview
+##  Overview
 Introducción al ecosistema Linux, la filosofía del software libre y el modelo de desarrollo Open Source.
 
 ---
