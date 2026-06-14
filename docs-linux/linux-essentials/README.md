@@ -85,3 +85,11 @@ Los conocimientos adquiridos en esta certificación sirven como base para nivele
 - `docs/` → documentación teórica por dominio
 - `labs/` → laboratorios prácticos
 - `assets/` → capturas, diagramas y recursos
+
+## Acerca de este repositorio
+
+Este repositorio forma parte de mi ruta de formación en sistemas Linux, ciberseguridad y administración de infraestructura.
+
+Aquí se centralizan apuntes, prácticas y laboratorios relacionados con la certificación Linux Essentials (010-160) del Linux Professional Institute (LPI), con el propósito de servir como portafolio técnico y evidencia de aprendizaje progresivo.
+
+El contenido se actualiza conforme avanzo en los distintos temas y prácticas del plan de estudio.
