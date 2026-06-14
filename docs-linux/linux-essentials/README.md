@@ -1,4 +1,4 @@
-# 📘 Linux Essentials – Documentation
+# Linux Essentials 
 
 Esta sección contiene la documentación estructurada correspondiente a la certificación Linux Essentials (010-160) del Linux Professional Institute (LPI).
 
