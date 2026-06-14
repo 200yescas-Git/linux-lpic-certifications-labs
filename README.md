@@ -92,7 +92,7 @@ El objetivo es construir una base sólida de conocimientos y experiencia prácti
 - Cloud Computing
 
 **Autor:** Yescas  
-**Automatización | Linux | Redes | Ciberseguridad | DevOps**
+**Automatización | Linux | Redes | Ciberseguridad | DevOps | Cloud Computing**
 
 >[NOTE!]
 >Este repositorio documenta el progreso, las prácticas y los conocimientos adquiridos durante cada etapa de esta ruta profesional.
