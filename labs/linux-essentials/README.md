@@ -21,7 +21,14 @@ Todos los laboratorios se realizan en un entorno controlado para asegurar consis
 - Terminal Bash
 - Usuario con privilegios sudo
 
+## Áreas de práctica
 
+- Introducción a Linux y uso de la terminal  
+- Sistema de archivos y gestión de archivos  
+- Comandos básicos, pipes y redirecciones  
+- Usuarios, grupos y permisos  
+- Procesos y administración del sistema  
+- Redes básicas en Linux  
 
 ---
 
