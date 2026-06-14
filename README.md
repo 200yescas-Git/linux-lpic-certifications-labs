@@ -53,8 +53,49 @@ El objetivo es construir un portafolio técnico escalable que refleje el progres
 - Automatización
 - DevOps Fundamentals
 
+## Laboratorios
+
+Los laboratorios incluidos en este repositorio tienen como objetivo reforzar los conocimientos teóricos mediante ejercicios prácticos realizados en entornos Linux.
+
+Las prácticas abarcan tareas relacionadas con:
+
+- Navegación y administración del sistema de archivos.
+- Gestión de usuarios y grupos.
+- Configuración de permisos y propiedad de archivos.
+- Administración de procesos y servicios.
+- Gestión de almacenamiento y particiones.
+- Configuración básica de redes.
+- Automatización mediante scripts.
+- Seguridad y administración de sistemas Linux.
+
+Cada laboratorio incluye documentación, comandos utilizados, resultados obtenidos y evidencia cuando sea necesario.
+
+## Objetivo Profesional
+
+Este repositorio forma parte de mi ruta de aprendizaje y desarrollo profesional dentro del ecosistema Linux.
+
+El objetivo es construir una base sólida de conocimientos y experiencia práctica a través de las certificaciones del Linux Professional Institute (LPI), avanzando progresivamente desde Linux Essentials hasta los niveles profesionales de LPIC.
+
+### Ruta de aprendizaje
+
+-  Linux Essentials
+-  LPIC-1: Linux Administrator
+-  LPIC-2: Linux Engineer
+-  LPIC-3: Enterprise Linux, Security y especializaciones avanzadas
+
+### Objetivos a largo plazo
+
+- Administración de Sistemas Linux
+- Ingeniería de Infraestructura
+- Ciberseguridad
+- Automatización y DevOps
+- Cloud Computing
+
 **Autor:** Yescas  
-**Ingeniero en Sistemas | Linux | Redes | Ciberseguridad | DevOps**
+**Automatización | Linux | Redes | Ciberseguridad | DevOps**
+
+>[NOTE!]
+>Este repositorio documenta el progreso, las prácticas y los conocimientos adquiridos durante cada etapa de esta ruta profesional.
 
 ## License
 
