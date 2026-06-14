@@ -17,7 +17,7 @@ Todos los laboratorios se realizan en un entorno controlado para asegurar consis
 - Terminal Bash
 - Usuario con privilegios sudo
 
-Este entorno es reutilizado en diferentes certificaciones de mi ruta de aprendizaje en Linux, ciberseguridad y administración de sistemas.
+
 
 ---
 
