@@ -8,7 +8,9 @@ El objetivo es reforzar los conocimientos teóricos mediante la práctica en un 
 
 ---
 
-## Entorno de laboratorio
+## Entorno de Laboratorio
+
+Para optimizar recursos y mantener consistencia entre las distintas certificaciones de mi ruta de aprendizaje, los laboratorios de este repositorio se realizan utilizando la misma máquina virtual Debian empleada en mis estudios de Linux Essentials, CompTIA Linux+ y LPIC.
 
 Todos los laboratorios se realizan en un entorno controlado para asegurar consistencia y repetibilidad:
 
