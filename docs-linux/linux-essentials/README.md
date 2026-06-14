@@ -2,11 +2,13 @@
 
 Esta sección contiene la documentación estructurada correspondiente a la certificación Linux Essentials (010-160) del Linux Professional Institute (LPI).
 
+## Objetivo
+
 El objetivo es construir una base sólida en el uso de sistemas Linux, la línea de comandos y conceptos fundamentales de administración de sistemas.
 
 ---
 
-## 📚 Dominios de conocimiento
+## Dominios de conocimiento
 
 ### 1. The Linux Community and a Career in Open Source
 - Historia de Linux y Unix
@@ -47,7 +49,7 @@ El objetivo es construir una base sólida en el uso de sistemas Linux, la línea
 
 ---
 
-## 🧪 Laboratorios
+## Laboratorios
 
 Los laboratorios tienen como objetivo reforzar los conceptos teóricos mediante práctica directa en un entorno Linux (Debian en VMware Workstation).
 
@@ -70,7 +72,7 @@ Cada laboratorio incluye:
 
 ---
 
-## 📌 Resumen
+## Resumen
 
 Linux Essentials proporciona los fundamentos esenciales para el uso del sistema operativo Linux y la administración básica de sistemas.
 
@@ -78,7 +80,7 @@ Los conocimientos adquiridos en esta certificación sirven como base para nivele
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 
 - `docs/` → documentación teórica por dominio
 - `labs/` → laboratorios prácticos
