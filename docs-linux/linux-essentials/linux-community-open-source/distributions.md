@@ -181,4 +181,37 @@ Slackware es una de las distribuciones Linux más antiguas aún en desarrollo.
 
 ---
 
+# Key Concepts
+
+### Distribution
+
+Sistema operativo completo basado en el kernel Linux.
+
+### Package Manager
+
+Herramienta encargada de instalar, actualizar y eliminar software.
+
+### Repository
+
+Servidor que almacena paquetes de software para una distribución.
+
+### Upstream Distribution
+
+Distribución original de la cual derivan otras distribuciones.
+
+### Enterprise Distribution
+
+Distribución diseñada para entornos empresariales y productivos.
+
+---
+
+# Summary
+
+Las distribuciones Linux se agrupan en diferentes familias según su origen, filosofía y herramientas de administración. Las familias Debian, Red Hat, SUSE, Arch, Gentoo y Slackware representan la base de la mayoría de distribuciones modernas utilizadas en servidores, escritorios, desarrollo de software y entornos empresariales.
+
+---
+
+# Conclusion
+
+Comprender las familias de distribuciones Linux permite identificar sus fortalezas, diferencias y casos de uso. Este conocimiento constituye una base fundamental para la administración de sistemas Linux, la automatización, la infraestructura empresarial y futuras especializaciones en DevOps y Cloud Computing.
 
