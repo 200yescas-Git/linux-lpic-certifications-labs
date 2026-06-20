@@ -21,12 +21,5 @@ Introducción al ecosistema Linux, la filosofía del software libre y el modelo 
 
 ---
 
-## Related Topics
-- file-system/
-- users-permissions/
-- package-management/
-
----
-
 ## Summary
 El software libre y el código abierto permiten el desarrollo colaborativo de Linux mediante una comunidad global y licencias que garantizan libertad de uso, modificación y distribución.
