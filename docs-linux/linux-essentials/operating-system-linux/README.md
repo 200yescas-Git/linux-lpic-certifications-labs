@@ -29,6 +29,9 @@ En esta sección vamos a conocer la línea de comandos,ubicar el intérprete de 
 
 ---
 
+## Summary
+
+Aprender comandos y ejecutarlos para llevar una buena administración con base a la práctica, conocer el entorno de la línea de comandos es el primer paso en el mundo linux.
 
 
 
