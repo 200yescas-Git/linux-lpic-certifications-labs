@@ -22,11 +22,11 @@ En esta sección vamos a conocer la línea de comandos,ubicar el intérprete de 
 
 ## Topics Covered
 
-- command-line- → Comandos básicos
-- special-characters-and-wildcards → Caracteres y uso del comodín
-- using-command-help → Las ayudas en la Línea de comando
-- files-directories → Navegar por los directorios
--  → Diferentes comandos de acciones sobre archivos
+- command-line.md → Comandos básicos
+- special-characters-and-wildcards.md → Caracteres y uso del comodín
+- using-command-help.md → Las ayudas en la Línea de comando
+- files-directories.md → Navegar por los directorios
+- files-commands.md → Diferentes comandos de acciones sobre archivos
 
 ---
 
